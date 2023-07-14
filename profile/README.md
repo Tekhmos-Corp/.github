@@ -1,10 +1,10 @@
-# TdD: Technology Projects Showcase
+# Tekhmos Corp: Technology Projects Showcase
 
-Welcome to TdD, where we take pride in presenting a remarkable collection of projects crafted by our talented group of friends who are deeply involved in the realm of technology. We invite you to join us on this exciting journey as we shape the future together.
+Welcome to Tekhmos, where we take pride in presenting a remarkable collection of projects crafted by our talented group of friends who are deeply involved in the realm of technology. We invite you to join us on this exciting journey as we shape the future together.
 
-## About TdD
+## About Tekhmos Corp.
 
-TdD is a dynamic platform that showcases the innovative projects created by our passionate group of friends. With a shared love for technology, we are driven to push boundaries, explore new possibilities, and make a meaningful impact in the world.
+Tekhmos Corp. is a dynamic platform that showcases the innovative projects created by our passionate group of friends. With a shared love for technology, we are driven to push boundaries, explore new possibilities, and make a meaningful impact in the world.
 
 ## Our Projects
 
@@ -20,8 +20,8 @@ Are you passionate about technology and eager to collaborate with like-minded in
 
 ## Connect with Us
 
-- LinkedIn: [TdD Inc](https://www.linkedin.com/company/tdd-inc/)
+- LinkedIn: [Tekhmos Corp.](https://www.linkedin.com/company/Tekhmos-Corp/)
 
 We look forward to embarking on this exciting journey with you as we shape the future through technology.
 
-\#TdD #TechnologyProjects #Innovation
+\#TechnologyProjects #Innovation
