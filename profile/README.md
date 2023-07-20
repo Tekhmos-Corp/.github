@@ -21,6 +21,7 @@ Are you passionate about technology and eager to collaborate with like-minded in
 ## Connect with Us
 
 - LinkedIn: [Tekhmos Corp.](https://www.linkedin.com/company/Tekhmos-Corp/)
+- Website: [Tekhmos Corp.](http://tekhmos.com/)
 
 We look forward to embarking on this exciting journey with you as we shape the future through technology.
 
